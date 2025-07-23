@@ -18,7 +18,6 @@ This repository contains the code for building a Netflix-inspired home page and 
 - [Project Walk-Through](#project-walk-through)
 - [Home Page](#home-page)
 
-- [Demo](#demo)
 - [Technology Used](#technology-used)
   - [Getting Started](#getting-started)
   - [Contributing](#contributing)
@@ -101,11 +100,6 @@ It contains useful links users may need it.
 
 **_### The page is fully responsive to all mobile devices even the small ones. ###_**
 
-# Demo
-
-**_Take a look - Live Demo:_**
-
-- [Live Demo Link](https://abhay19sharma.github.io/Netflix-clone/)
 
 # Technology Used
 
