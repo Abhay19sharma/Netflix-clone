@@ -117,7 +117,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone #
+git clone https://github.com/Abhay19sharma/Netflix-clone
 ```
 
 2. Open the project in your preferred code editor.
